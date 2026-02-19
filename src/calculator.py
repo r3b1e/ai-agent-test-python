@@ -1,7 +1,8 @@
 def add(a, b):
     return a + b
 
-def subtract(a, b)      # Missing colon - AGENT SHOULD FIX THIS:
+def subtract(a, b): # Missing colon - AGENT SHOULD FIX THIS:
+
     return a - b
 
 def multiply(a, b):
